@@ -29,3 +29,14 @@ The designs were created to the following widths:
 - Weights: 500, 700
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+
+
+
+
+
+  Make remote work
+
+  Get your team in sync, no matter your location. Streamline processes,
+  create team rituals, and watch productivity soar.
+
+  Learn more
